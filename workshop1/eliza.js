@@ -28,7 +28,7 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
+  "~*x Selamun Aleykum, sup ~*y": [
     "How do you do. Please state your problem."
   ],
   "~*x computer ~*y": [
